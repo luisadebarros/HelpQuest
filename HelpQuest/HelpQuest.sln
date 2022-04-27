@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpQuest", "HelpQuest\HelpQuest.csproj", "{8D831D7C-8310-4101-AC77-1B40925607CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D831D7C-8310-4101-AC77-1B40925607CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D831D7C-8310-4101-AC77-1B40925607CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D831D7C-8310-4101-AC77-1B40925607CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D831D7C-8310-4101-AC77-1B40925607CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D51242-B24B-43A2-A925-2D4147CF9DA3}
+	EndGlobalSection
+EndGlobal

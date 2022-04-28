@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest.csproj": {}
+    "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\HelpQuest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest.csproj": {
+    "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\HelpQuest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
         "projectName": "HelpQuest",
-        "projectPath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
+        "projectPath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

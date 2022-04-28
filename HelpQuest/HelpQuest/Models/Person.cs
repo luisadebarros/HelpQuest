@@ -1,11 +1,17 @@
-﻿namespace HelpQuest.Models
+﻿using MongoDB.Bson.Serialization.Attributes;
+
+namespace HelpQuest.Models
 {
     public class Person
     {
-        public Guid id { get; init; }
-        public string name { get; set; }
-        public DateTime dateBirth { get; set; }
-        public string email { get; set; }
+        [BsonId]
+        public Guid Id { get; init; }
+        [BsonElement("name")]
+        public string Name { get; set; }
+        [BsonElement("dateBirth")]
+        public DateTime DateBirth { get; set; }
+        [BsonElement("email")]
+        public string Email { get; set; }
         
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HelpQuest.Models;
+using HelpQuest.Mongo;
+using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -6,35 +8,41 @@ namespace HelpQuest.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
     public class PersonController : ControllerBase
     {
-        // GET: api/<PersonController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        private Crud _crud;
+
+        public PersonController(Crud crud)
         {
-            return new string[] { "value1", "value2" };
+            _crud = crud;
         }
 
-        // GET api/<PersonController>/5
+        [HttpGet]
+        public async IActionResult<Person> Insert()
+        {
+           _crud.
+        }
+
+
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return null;
         }
 
-        // POST api/<PersonController>
         [HttpPost]
         public void Post([FromBody] string value)
         {
+
         }
 
-        // PUT api/<PersonController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
+
         }
 
-        // DELETE api/<PersonController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

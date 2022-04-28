@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lJTS7Rl6Vas7NsNG7hBj5S8ansZE3sg8/ePlWuP1ltgTqvZdW4vMyhJGwPqJP4PnJG/FjBb8mj8i7mpuF+Q+w==",
+  "dgSpecHash": "TSADjfxa25rsxF6nNFYuIk+XrtUnEau9eqyi4XhFFfDhT/8sfGpqjj31yKcgrZqVs3VMAmJaRKpko9NxEf9VMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\HelpQuest\\HelpQuest\\HelpQuest\\HelpQuest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
